@@ -1,0 +1,13 @@
+version: 1.0.0
+name: utils
+description: Utils commands
+commands:
+  - name: commmit
+    command: commit.sh
+  - name: list all
+    command: ls.sh
+    args:
+      - name: --teste
+        description: Teste argument
+
+    

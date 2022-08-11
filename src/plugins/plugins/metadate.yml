@@ -1,0 +1,9 @@
+version: 1.0.0
+name: plugin
+description: install plugins
+commands:
+  - name: install
+    command: install.sh
+
+
+    

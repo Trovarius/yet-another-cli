@@ -1,0 +1,9 @@
+version: 1.0.0
+name: web
+description: Web commands
+commands:
+  - name: boilerplate
+    command: boilerplate.sh
+
+
+    
